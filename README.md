@@ -4,7 +4,7 @@ A simple start with my study dairy
  - Open source image contain engine.
  - Based on `Go` language.
  - Can run at any `Linux` OS with copy some lights images.
- - Use `Sandbox` two dockers can not with each other.
+ - Use `Sandbox` two dockers can not connect with each other.
  - Less and less it will take memory.
  ## About the Docker
  There is a github blog with  
