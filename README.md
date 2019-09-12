@@ -70,6 +70,6 @@ Share images, automate workflows, and more with a free Docker ID:
 For more examples and ideas, visit:  
  https://docs.docker.com/get-started/  
 ```
-**Okey this is the end to record "How To Install Docker"**  
+**Okey this is the end to record "How To Install Docker**  
 *Have a good day :)*  
 *Powered by moonhead*
